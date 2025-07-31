@@ -103,7 +103,3 @@ Paste these in the "Question based graph" tab:
 * [Streamlit](https://streamlit.io/)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
